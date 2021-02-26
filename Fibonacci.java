@@ -11,6 +11,6 @@ public class Fibonacci{
     }
      
     public static void main (String[] args){
-        fib(10);
+        fib(8); //the test case can be changed here
     }
 }
